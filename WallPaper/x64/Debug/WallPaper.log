@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\projects\VS\C++\WallPaper\WallPaper\test.cpp(16): warning C4715: “EnumWindowProFindDesktopWindow”: 不是所有的控件路径都返回值
+  WallPaper.vcxproj -> D:\projects\VS\C++\WallPaper\x64\Debug\WallPaper.exe
